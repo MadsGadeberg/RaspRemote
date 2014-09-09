@@ -70,7 +70,7 @@
                             <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="JrO-Ox-RkA">
                                 <rect key="frame" x="16" y="252" width="51" height="31"/>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="16" y="252" width="52" height="31"/>
+                                    <rect key="frame" x="16" y="252" width="51" height="31"/>
                                 </variation>
                                 <connections>
                                     <action selector="Chnl4Changed:" destination="vXZ-lx-hvc" eventType="valueChanged" id="frs-C6-ePB"/>
