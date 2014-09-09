@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RaspGPIO/ViewController.swift"
+            timestampString = "430147611.399148"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "Chnl0Changed(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RaspGPIO.ViewController.Chnl0Changed (RaspGPIO.ViewController)(Swift.AnyObject) -&gt; ()"
+                  moduleName = "RaspGPIO"
+                  urlString = "file:///Volumes/Data/Mads/Dropbox/code/RaspGPIO/RaspGPIO/ViewController.swift"
+                  timestampString = "430147005.773919"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RaspGPIO.ViewController.Chnl0Changed (RaspGPIO.ViewController)(Swift.AnyObject) -&gt; ()"
+                  moduleName = "RaspGPIO"
+                  urlString = "file:///Volumes/Data/Mads/Dropbox/code/RaspGPIO/RaspGPIO/ViewController.swift"
+                  timestampString = "430147005.774185"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "83">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
